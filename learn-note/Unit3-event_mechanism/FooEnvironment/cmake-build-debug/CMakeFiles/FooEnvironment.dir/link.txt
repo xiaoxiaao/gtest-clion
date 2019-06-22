@@ -1,0 +1,1 @@
+/usr/bin/c++  -g   CMakeFiles/FooEnvironment.dir/main.cpp.o  -o FooEnvironment  -L/home/test/CLionProjects/FooEnvironment/gtest/lib64 -Wl,-rpath,/home/test/CLionProjects/FooEnvironment/gtest/lib64 -lgtest -lgtest_main -lpthread 

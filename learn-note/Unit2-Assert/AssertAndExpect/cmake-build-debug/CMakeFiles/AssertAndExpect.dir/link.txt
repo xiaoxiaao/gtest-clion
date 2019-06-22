@@ -1,0 +1,1 @@
+/usr/bin/c++  -g   CMakeFiles/AssertAndExpect.dir/main.cpp.o  -o ../bin/AssertAndExpect  -L/home/test/CLionProjects/AssertAndExpect/gtest/lib64 -Wl,-rpath,/home/test/CLionProjects/AssertAndExpect/gtest/lib64 -lgtest -lgtest_main -lpthread 
